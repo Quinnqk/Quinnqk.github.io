@@ -1,0 +1,54 @@
+body{
+    background-color: #F4F1F1;
+color: #271F19;
+font-family: 'PT Serif', serif;
+font-family: 'Raleway', sans-serif;
+}
+h1{
+    font-weight: bolder;
+    font-size: 70pt;
+}
+h2{
+    font-weight: bolder;
+    font-size: 60pt;
+}
+h3{
+    font-weight: bolder;
+    font-size: 50pt;
+}
+h4{
+    font-weight: bolder;
+    font-size: 40pt;
+}
+h5{
+    font-weight: bolder;
+    font-size: 30pt;
+}
+.side{
+text-align: right;
+padding-top: 5%;
+padding-right: 8px;
+background-color: #F4F1F1;
+}
+.my-header{
+background-color: #271F19;
+color: #F4F1F1;
+}
+.mybodyrow{
+font-size: 20pt;
+}
+a{color: #2A6B84;
+}
+a:hover{
+    color: #1c4656;
+}
+
+p{
+    font-family: 'PT Serif', serif;
+}
+.caption{
+    font-family: 'Raleway', sans-serif;
+}
+#header a{color: #F4F1F1;}
+#header a:hover{color: #2A6B84;}
+#header a{ text-decoration: none;}
